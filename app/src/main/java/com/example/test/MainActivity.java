@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity{
 
         //TextView to display "Hello, World!"
         TextView textView = new TextView(this);
-        textView.setText("Hello, World!");
+        textView.setText("Hello, World! How are you ");
         textView.setTextSize(24);
 
         setContentView(textView);
