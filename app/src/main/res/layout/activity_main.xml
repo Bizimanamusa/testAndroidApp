@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:hint="Username"
         android:inputType="text"
-        android:padding="12dp"
+        android:padding="13dp"
         android:minHeight="48dp"/> <!-- Increase padding for larger touch target -->
 
     <EditText
